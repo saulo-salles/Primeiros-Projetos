@@ -1,6 +1,6 @@
 Primeiros Projetos em Java
 
-Este repositório reúne meus **primeiros projetos e exercícios práticos em Java, desenvolvidos durante meus estudos iniciais em programação.
+Este repositório reúne meus primeiros projetos e exercícios práticos em Java, desenvolvidos durante meus estudos iniciais em programação.
 
 O objetivo principal foi consolidar fundamentos, lógica de programação e conceitos essenciais da linguagem Java.
 
